@@ -12,7 +12,7 @@
     {
       "identity" : "gadutil",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/yj9294/gadutil.git",
+      "location" : "https://github.com/SmileAleady/GADUtil.git",
       "state" : {
         "branch" : "main",
         "revision" : "75ca88553b8b54ac685312a5a65d76e10b273615"

@@ -15,7 +15,7 @@ let package = Package(
             targets: ["TBAUtil"]),
     ],
     dependencies: [.package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.9.0"),
-                   .package(url: "https://github.com/yj9294/gadutil.git", branch: "main"),
+                   .package(url: "https://github.com/SmileAleady/GADUtil.git", branch: "main"),
                    .package(url: "https://github.com/ashleymills/Reachability.swift.git", branch: "master")],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
